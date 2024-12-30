@@ -1,0 +1,64 @@
+12:33:03.661 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\nchilaka\eclipse-workspace\Project1-demoblaze-master\Master.xml"
+12:33:04.115 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\nchilaka\eclipse-workspace\Project1-demoblaze-master\Master.xml
+
+12:33:10.190 [main] INFO  testCases.TC001_SignUpTest - *****Login Test has Started ....
+12:33:10.190 [main] INFO  testCases.TC001_SignUpTest - ....Home Page....
+12:33:10.263 [main] INFO  testCases.TC001_SignUpTest - Sign Up link is diplayed in the homepage
+12:33:10.286 [main] INFO  testCases.TC001_SignUpTest - Sign link is clikable
+12:33:13.354 [main] INFO  testCases.TC001_SignUpTest -  .........Sign Up page......
+12:33:13.381 [main] INFO  testCases.TC001_SignUpTest - Sign up page is visible
+12:33:13.398 [main] INFO  testCases.TC001_SignUpTest - ***validSignUp***
+12:33:20.589 [main] INFO  testCases.TC001_SignUpTest - Sign up done successfully
+12:33:27.368 [main] INFO  testCases.TC002_LoginTest - ********Login Test********
+12:33:27.368 [main] INFO  testCases.TC002_LoginTest - .......Valid Login.......
+12:33:27.391 [main] INFO  testCases.TC002_LoginTest - Login link is displayed
+12:33:27.410 [main] INFO  testCases.TC002_LoginTest - Login link is clickable
+12:33:27.486 [main] INFO  testCases.TC002_LoginTest - .......Login Page.....
+12:33:37.691 [main] INFO  testCases.TC003_ProductCategoryTest - *****TC003_ProductCategoryTest****
+12:33:37.762 [main] INFO  testCases.TC003_ProductCategoryTest - Logo is displayed properly
+12:33:37.919 [main] INFO  testCases.TC003_ProductCategoryTest - Expected menu items
+12:33:37.919 [main] INFO  testCases.TC003_ProductCategoryTest - Verify each expected menu item exists
+12:33:37.951 [main] INFO  testCases.TC003_ProductCategoryTest - Expected category items
+12:33:37.953 [main] INFO  testCases.TC003_ProductCategoryTest - Verify each expected category exists
+12:33:42.081 [main] INFO  testCases.TC004_ProductDetailsTest - ******TC004_ProductDetailsTest***
+12:33:48.927 [main] INFO  testCases.TC004_ProductDetailsTest - Selecting the product
+12:34:05.364 [main] INFO  testCases.TC004_ProductDetailsTest - adding the ites to cart
+12:34:10.744 [main] INFO  testCases.TC005_CartTest - ****Navigating to Home Page******
+12:34:10.744 [main] INFO  testCases.TC005_CartTest - Adding Product to Cart
+12:34:15.739 [main] INFO  testCases.TC005_CartTest - Get Initial Cart Count
+12:34:17.356 [main] INFO  testCases.TC005_CartTest - Delete First Item
+12:34:17.421 [main] INFO  testCases.TC005_CartTest - Cart Count Reduced
+12:34:17.470 [main] INFO  testCases.TC005_CartTest - ****Navigating to Home Page******
+12:34:17.560 [main] INFO  testCases.TC005_CartTest - Adding Product to Cart
+12:34:21.976 [main] INFO  testCases.TC005_CartTest - Navigating to Home page
+12:34:27.608 [main] INFO  testCases.TC005_CartTest - Added mutliple items to cart
+12:34:27.608 [main] INFO  testCases.TC005_CartTest - Navigate to Cart
+12:34:28.233 [main] INFO  testCases.TC005_CartTest - Total Price verification
+12:34:31.308 [main] INFO  testCases.TC005_CartTest - Navigate to Home Page
+12:34:31.413 [main] INFO  testCases.TC005_CartTest - Adding Product to Cart
+12:34:37.108 [main] INFO  testCases.TC005_CartTest - Navigate to Cart page
+12:34:37.242 [main] INFO  testCases.TC005_CartTest - Get Initial Cart Count
+12:34:38.229 [main] INFO  testCases.TC005_CartTest - Clear Cart
+12:35:00.770 [main] INFO  testCases.TC005_CartTest - Verify Cart is Empty
+12:35:14.349 [main] INFO  testCases.TC006_PurchaseTest - Add product to cart
+12:35:16.549 [main] INFO  testCases.TC006_PurchaseTest - Click Place Order
+12:35:19.657 [main] INFO  testCases.TC006_PurchaseTest - Verify user details section
+12:35:19.709 [main] INFO  testCases.TC006_PurchaseTest - user details section
+12:35:19.798 [main] INFO  testCases.TC006_PurchaseTest - Fill order details
+12:35:20.104 [main] INFO  testCases.TC006_PurchaseTest - Purchase and verify
+12:35:27.296 [main] INFO  testCases.TC007_EndToEndTest - ****End to End Test****
+12:35:27.296 [main] INFO  testCases.TC007_EndToEndTest - .....Home Page......
+12:35:27.296 [main] INFO  testCases.TC007_EndToEndTest - clicking login link
+12:35:30.394 [main] INFO  testCases.TC007_EndToEndTest - ....Login Page......
+12:35:33.623 [main] INFO  testCases.TC007_EndToEndTest - provided login user credentials
+12:35:33.623 [main] INFO  testCases.TC007_EndToEndTest - click login button
+12:35:33.670 [main] INFO  testCases.TC007_EndToEndTest - ....Product Details Page......
+12:35:37.361 [main] INFO  testCases.TC007_EndToEndTest - select product
+12:35:38.209 [main] INFO  testCases.TC007_EndToEndTest - added to the cart
+12:35:41.225 [main] INFO  testCases.TC007_EndToEndTest - ...Cart Page....
+12:35:41.728 [main] INFO  testCases.TC007_EndToEndTest - order Placed
+12:35:44.729 [main] INFO  testCases.TC007_EndToEndTest - Fill order details
+12:35:45.065 [main] INFO  testCases.TC007_EndToEndTest - provided all the details
+12:35:45.065 [main] INFO  testCases.TC007_EndToEndTest - Purchase and verify
+12:35:52.641 [main] INFO  testCases.TC007_EndToEndTest - End to End Test done successfully
